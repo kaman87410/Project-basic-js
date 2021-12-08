@@ -1,0 +1,15 @@
+body{
+    background-color: burlywood;
+    font-family: 'Shippori Antique', sans-serif;
+}
+.box{
+text-align: center;
+height: 150px;
+width: 400px;
+padding: 10px;
+background-color: coral;
+margin: auto;
+}
+.author, h4{
+    text-align: center;
+}

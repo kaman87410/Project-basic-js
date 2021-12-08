@@ -16,5 +16,4 @@ function play() {
     }
 
     document.getElementById("message").innerHTML = message;
-    console.log(number)
 };
